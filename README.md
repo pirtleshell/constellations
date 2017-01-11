@@ -2,7 +2,7 @@
 
 > JSON list of astronomical constellations :star2:
 
-The data is simply a JSON file, feel free to use in anywhere.
+The data is simply a [JSON file](https://github.com/PirtleShell/constellations/blob/master/constellations.json), feel free to use in anywhere.
 
 ## Install
 
