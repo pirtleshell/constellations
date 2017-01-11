@@ -1,0 +1,31 @@
+{
+  "name": "constellations",
+  "version": "0.0.1",
+  "description": "JSON list of astronomical constellations",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PirtleShell/constellations.git"
+  },
+  "keywords": [
+    "astronomy",
+    "constellation",
+    "stars",
+    "API",
+    "utility",
+    "space"
+  ],
+  "author": "Robert Pirtle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PirtleShell/constellations/issues"
+  },
+  "homepage": "https://github.com/PirtleShell/constellations#readme",
+  "xo": {
+    "esnext": true,
+    "space": true
+  },
+  "devDependencies": {
+    "xo": "^0.17.1"
+  }
+}
